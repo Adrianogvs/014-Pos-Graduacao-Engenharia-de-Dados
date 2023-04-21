@@ -7,7 +7,7 @@
 <p></p>
 
 ### **Module : Database fundamentals and technologies**
-####	Python para Engenharia de Dados	<br>
+####	Python para Engenharia de Dados <br>
 • 	Tipos de dados	<br>
 • 	Estruturas de controle: condicional e repetição	<br>
 • 	Estruturas de dados: listas, tuplas, conjuntos, dicionários, séries e dataframes	<br>
@@ -17,7 +17,7 @@
 • 	Construção de módulos de migração e  operações de processamento	<br>
 <p></p>
 
-####	Bancos de Dados Relacionais e Linguagem SQL	<br>
+####	Bancos de Dados Relacionais e Linguagem SQL
 • 	Modelagem de dados relacionais  	<br>
 • 	Diagrama ER	<br>
 • 	SQL	<br>
