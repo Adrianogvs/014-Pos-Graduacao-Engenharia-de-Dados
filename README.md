@@ -12,8 +12,8 @@
 <p></p>
 <p></p>
 
-### **Module : Database fundamentals and technologies**
-####	Python para Engenharia de Dados <br>
+### **[Module 01: Database fundamentals and technologies](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies)**
+####	[Python para Engenharia de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/001-Python%20para%20Engenharia%20de%20Dados) <br> 
 • 	Tipos de dados	<br>
 • 	Estruturas de controle: condicional e repetição	<br>
 • 	Estruturas de dados: listas, tuplas, conjuntos, dicionários, séries e dataframes	<br>
@@ -23,13 +23,13 @@
 • 	Construção de módulos de migração e  operações de processamento	<br>
 <p></p>
 
-####	Bancos de Dados Relacionais e Linguagem SQL
+####	[Bancos de Dados Relacionais e Linguagem SQL](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/002-Bancos%20de%20Dados%20Relacionais%20e%20Linguagem%20SQL)
 • 	Modelagem de dados relacionais  	<br>
 • 	Diagrama ER	<br>
 • 	SQL	<br>
 <p></p>
 
-####	Bancos de Dados NoSQL	<br>
+####	[Bancos de Dados NoSQL](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/003-Bancos%20de%20Dados%20NoSQL)	<br>
 • 	Conceitos e características dos bancos de dados NoSQL	<br>
 • 	Key-value databases	<br>
 • 	Document databases	<br>
@@ -38,7 +38,7 @@
 • 	Principais casos de uso de cada tipo	<br>
 <p></p>
 
-####	Otimização, Monitoramento e Operação  em Bancos de Dados	<br>
+####	[Otimização, Monitoramento e Operação  em Bancos de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/004-Otimiza%C3%A7%C3%A3o%2C%20Monitoramento%20e%20Opera%C3%A7%C3%A3o%20%20em%20Bancos%20de%20Dados)	<br>
 • 	Indexação	<br>
 • 	Análise de desempenho	<br>
 • 	Otimização e tuning (relacional e NoSQL)	<br>
@@ -51,7 +51,7 @@
 • 	Ferramentas de visualização para monitoramento	<br>
 <p></p>
 
-####	Segurança em Armazenamento, Tratamento e Consumo de Dados	<br>
+####	[Segurança em Armazenamento, Tratamento e Consumo de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/005-Seguran%C3%A7a%20em%20Armazenamento%2C%20Tratamento%20e%20Consumo%20de%20Dados)	<br>
 • 	Criptografia	<br>
 • 	Serviços e técnicas de autenticação	<br>
 • 	Tratamento de dados sensíveis e mascaramento	<br>
@@ -62,8 +62,8 @@
 • 	Conceitos de auditoria	<br>
 <p></p><br>
 
-### **Module :  Database applications**
-####	Governança de Dados	<br>
+### **[Module 02:  Database applications](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications)**
+####	[Governança de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/001-Governan%C3%A7a%20de%20Dados)	<br>
 • 	Contexto organizacional de dados	<br>
 • 	Conceitos de Governança de Dados – GD	<br>
 • 	Framework DMBoK	<br>
@@ -75,7 +75,7 @@
 • 	Aplicações dos conceitos de GD.	<br>
 <p></p>	
 
-####	Arquiteturas e Serviços de Data Lakes e Data Warehousing	<br>
+####	[Arquiteturas e Serviços de Data Lakes e Data Warehousing](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/002-Arquiteturas%20e%20Servi%C3%A7os%20de%20Data%20Lakes%20e%20Data%20Warehousing)	<br>
 • 	Data Lake x Data Warehouse	<br>
 • 	Dados Estruturados x Dados Não Estruturados	<br>
 • 	Blocos funcionais em uma arquitetura de dados	<br>
@@ -86,7 +86,7 @@
 • 	Data Lake On-premise x Data Lake na Nuvem	<br>
 <p></p>	
 
-####	Preparação, Orquestração e Fluxos de Dados 	<br>
+####	[Preparação, Orquestração e Fluxos de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/003-Prepara%C3%A7%C3%A3o%2C%20Orquestra%C3%A7%C3%A3o%20e%20Fluxos%20de%20Dados) 	<br>
 • 	Tipos de dados	<br>
 • 	Melhoramento e enriquecimento	<br>
 • 	Feature Engineering	<br>
@@ -98,7 +98,7 @@
 • 	Implementação de fluxos de dados 	<br>
 <p></p>	
 
-####	Ingestão e Catalogação de Dados	<br>
+####	[Ingestão e Catalogação de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/004-Ingest%C3%A3o%20e%20Cataloga%C3%A7%C3%A3o%20de%20Dados)	<br>
 • 	Conceitos e técnicas de ingestão de dados	<br>
 • 	Ingestão Change Data Capture (CDC)	<br>
 • 	Slowly Change Dimension	<br>
@@ -111,7 +111,7 @@
 • 	Ferramentas e tecnologias para ingestão de dados	<br>
 <p></p>	
 
-####	Processamento de Fluxos Discretos e Contínuos de Dados	<br>
+####	[Processamento de Fluxos Discretos e Contínuos de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/005-Processamento%20de%20Fluxos%20Discretos%20e%20Cont%C3%ADnuos%20de%20Dados)	<br>
 • 	Processamento em lotes	<br>
 • 	Processamento de dados gerados por eventos	<br>
 • 	Spark, spark-streaming, Kafka, serviços gerenciados em cloud, soluções serverless e orientadas a eventos	<br>
@@ -119,7 +119,7 @@
 • 	Configuração do Spark	<br>
 <p></p>	
 
-####	Camadas e Serviços de Consumo de Dados	<br>
+####	[Camadas e Serviços de Consumo de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2002%20%20Database%20applications/006-Camadas%20e%20Servi%C3%A7os%20de%20Consumo%20de%20Dados)	<br>
 • 	Produtores e consumidores de dados	<br>
 • 	Camadas de dados	<br>
 • 	Barramentos de mensageria de dados	<br>
@@ -130,8 +130,8 @@
 <p></p><br>
 
 
-### **Module: Big data processing**
-####	Armazenamento e Processamento Massivo e Distribuído de Dados	<br>
+### **[Module 03: Big data processing](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2003%20Big%20data%20processing/)**
+####	[Armazenamento e Processamento Massivo e Distribuído de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2003%20Big%20data%20processing/001-Armazenamento%20e%20Processamento%20Massivo%20e%20Distribu%C3%ADdo%20de%20Dados)	<br>
 • 	Princípios de processamento e de volumes de dados massivos	<br>
 • 	HDFS – Hadoop Distributed File System	<br>
 • 	Replicação e redundância de dados e metadados	<br>
@@ -140,8 +140,8 @@
 • 	Soluções em Processamento Distribuído: Ecossitema Hadoop; Modelo MapReduce; Apache Spark; Apache Flink; Apache Sqoop; Apache ORC; Apache Pig; Apache HBase; Apache Hive; Apache Flume.	<br>
 <p></p><br>
 
-### **Module: Operation & Control**
-####	Computação em Nuvem	<br>
+### **[Module 04: Operation & Control](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2004%20Operation%20%26%20Control)**
+####	[Computação em Nuvem](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2004%20Operation%20%26%20Control/001-Computa%C3%A7%C3%A3o%20em%20Nuvem)<br>
 • 	Conceitos, tipos, utilização e fornecedores	<br>
 • 	Soluções corporativas de SaaS, PaaS e IaaS	<br>
 • 	AWS, Microsoft Azure e Google Cloud	<br>
@@ -150,7 +150,7 @@
 • 	Tendências em Computação	<br>
 <p></p> 
 
-####	Cultura e Práticas Devops	<br>
+####	[Cultura e Práticas Devops](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2004%20Operation%20%26%20Control/002-Cultura%20e%20Pr%C3%A1ticas%20Devops)	<br>
 • 	Integração contínua e entrega contínua	<br>
 • 	Estratégias de deploy	<br>
 • 	Projeto de pipeline para build e deployment	
@@ -159,7 +159,7 @@
 • 	Containers, Docker, Kubernetes e OpenShift	<br>
 <p></p> 
 
-####	Cultura e Práticas DataOps e MLOps	<br>
+####	[Cultura e Práticas DataOps e MLOps](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2004%20Operation%20%26%20Control/003-Cultura%20e%20Pr%C3%A1ticas%20DataOps%20e%20MLOps)	<br>
 • 	MLOps x DevOps x DataOps	<br>
 • 	Camadas, componentes, infraestrutura e ferramentas para arquitetura de Machine Learning	<br>
 • 	Projeto e construção de pipeline para build e deployment	<br>
