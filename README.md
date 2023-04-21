@@ -1,4 +1,9 @@
-# **Pós Graduação em Engenharia de Dados**
+# **PUC Minas**
+![Exemplo de imagem](d:\Users\Administrator\Documents\Github\014-Pos-Graduacao-Engenharia-de-Dados\image\logo-puc-minas.png)
+
+## **Pós Graduação em Engenharia de Dados**
+![Exemplo de imagem](d:\Users\Administrator\Documents\Github\014-Pos-Graduacao-Engenharia-de-Dados\image\informatica-e-tecnologia3.png)
+
 
 ### **Este repositório contém o programa da Pós Graduação em Engenharia de Dados, com todas as disciplinas, módulos e tópicos abordados.**<br></br>
 
