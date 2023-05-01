@@ -14,8 +14,8 @@
 
 ### **[Module 01: Database fundamentals and technologies](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies)**
 ####	[Python para Engenharia de Dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/tree/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/001-Python%20para%20Engenharia%20de%20Dados) <br> 
-• 	Tipos de dados	<br>
-• 	Estruturas de controle: condicional e repetição	<br>
+• 	[Tipos de dados](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/blob/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/001-Python%20para%20Engenharia%20de%20Dados/Unidade-1/001%20-%20Tipos%20de%20dados.ipynb)	<br>
+• 	[Estruturas de controle: condicional e repetição](https://github.com/Adrianogvs/014-Pos-Graduacao-Engenharia-de-Dados/blob/main/repos/Module%2001%20%20Database%20fundamentals%20and%20technologies/001-Python%20para%20Engenharia%20de%20Dados/Unidade-1/002%20-%20Estruturas%20de%20controle%20condicional%20e%20repeti%C3%A7%C3%A3o.ipynb)	<br>
 • 	Estruturas de dados: listas, tuplas, conjuntos, dicionários, séries e dataframes	<br>
 • 	Bibliotecas de manipulação de dados (Pandas)	<br>
 • 	Bibliotecas de visualização de dados (matplotlib, plotly)	<br>
